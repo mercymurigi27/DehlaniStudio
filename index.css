@@ -2,6 +2,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    font-family: 'Dosis', sans-serif;
 }
 
 .cont{
@@ -54,5 +55,29 @@
     background-image: url(assets/backgrounds/c_image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    color: white;
+    padding: 2pc;
 }
 
+
+.fr0{
+    display: flex;
+    justify-content: center;
+}
+
+.fr2 ::placeholder{
+    color: white;
+    float: left;
+}
+.fr ::placeholder{
+    color: white;
+}
+.fr1 ::placeholder{
+    color: white;
+}
+
+.socials{
+    padding-top: 3pc;
+    padding-bottom: 3pc;
+    
+}
