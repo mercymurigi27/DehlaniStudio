@@ -8,14 +8,43 @@
     background-image: url(assets/backgrounds/h_img.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    
+}
+.con1 img{
+    padding: 5pc;
+    padding-top: 5pc;
+}
+
+.cont2{
+    color: white;
+    padding:5pc;
+    padding-bottom: 0pc;
+}
+.cont3{
+    color: white;
+    font-size: 12pt;
+    padding:5pc, 0pc, 5pc, 0pc;
+}
+.cont4{
+    padding: 5pc;
+    padding-bottom: 1pc;
+}
+
+.abt{
+    padding: 5pc;
+
 }
 .service{
     background-image: url(assets/backgrounds/s_image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    color: white;
+    padding: 5pc;
 }
+
 .contactus{
     background-image: url(assets/backgrounds/c_image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
+
