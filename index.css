@@ -34,6 +34,7 @@
     padding: 5pc;
 
 }
+
 .service{
     background-image: url(assets/backgrounds/s_image.jpg);
     background-repeat: no-repeat;
@@ -42,6 +43,13 @@
     padding: 5pc;
 }
 
+#hea{
+    padding: 4pc;
+}
+
+.pot{
+    justify-items: space-evenly;
+}
 .contactus{
     background-image: url(assets/backgrounds/c_image.jpg);
     background-repeat: no-repeat;
