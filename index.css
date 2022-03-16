@@ -2,7 +2,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    font-family: 'Dosis', sans-serif;
+    font-family: 'Fredoka', sans-serif;
 }
 
 .cont{
@@ -48,9 +48,6 @@
     padding: 4pc;
 }
 
-.pot{
-    justify-items: space-evenly;
-}
 .contactus{
     background-image: url(assets/backgrounds/c_image.jpg);
     background-repeat: no-repeat;
@@ -59,6 +56,9 @@
     padding: 2pc;
 }
 
+.portfolio{
+padding-top: 4pc;
+}
 
 .fr0{
     display: flex;
@@ -79,5 +79,74 @@
 .socials{
     padding-top: 3pc;
     padding-bottom: 3pc;
+    align-content: space-between;
     
 }
+
+.see p{
+    font-family: 'Fredoka', sans-serif;
+    background-color: rgb(163, 66, 9);
+    color: white;
+    font-size: 24pt;
+    border-style: solid;
+    height: 10pc;
+
+}
+.see1 p{
+    font-family: 'Fredoka', sans-serif;
+    background-color: rgb(163, 66, 9);
+    color: white;
+    font-size: 24pt;
+    border-style: solid;
+    height: 10pc;
+}
+
+.see2 p{
+    font-family: 'Fredoka', sans-serif;
+    background-color: rgb(163, 66, 9);
+    color: white;
+    font-size: 24pt;
+    border-style: solid;
+    height: 10pc;
+}
+.see3 p{
+    font-family: 'Fredoka', sans-serif;
+    background-color: rgb(163, 66, 9);
+    color: white;
+    font-size: 24pt;
+    border-style: solid;
+    height: 10pc;
+}
+.see4 p{
+    font-family: 'Fredoka', sans-serif;
+    background-color: rgb(163, 66, 9);
+    color: white;
+    font-size: 24pt;
+    border-style: solid;
+    height: 10pc;
+}
+.see5 p{
+    font-family: 'Fredoka', sans-serif;
+    background-color: rgb(163, 66, 9);
+    color: white;
+    font-size: 24pt;
+    border-style: solid;
+    height: 10pc;
+}
+.see7 p{
+    font-family: 'Fredoka', sans-serif;
+    background-color: rgb(163, 66, 9);
+    color: white;
+    font-size: 24pt;
+    border-style: solid;
+    height: 10pc;
+}
+.see7 p{
+    font-family: 'Fredoka', sans-serif;
+    background-color: rgb(163, 66, 9);
+    color: white;
+    font-size: 24pt;
+    border-style: solid;
+    height: 10pc;
+}
+
