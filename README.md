@@ -15,7 +15,6 @@
 
 Project meant to test understanding of jQuery and bootstrap in replication of a landing page of Delani Studio. Delani is a creative studio providing art related services.
 
-![Portfolio Landing page](assets/_DelaniStudio.jpg)
 
 ## Installation 
 ### Requirements
