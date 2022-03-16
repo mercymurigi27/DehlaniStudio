@@ -9,7 +9,6 @@
 + [Technologies Used](#technology)
 + [Known Bugs](#bugs)
 + [Lisence](#lisence)
-+ [Authors Info](#author)
 
 ## Description
 
